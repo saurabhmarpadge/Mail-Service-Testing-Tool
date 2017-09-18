@@ -2,7 +2,7 @@
 
 ## Basic Overview
 
-    Testing tool to send mails simultaneously from different Mailing Services such as Outlook, Gmail and Yahoo. Time interval and number of times the mails should be sent can be configured. 
+Testing tool to send mails simultaneously from different Mailing Services such as Outlook, Gmail and Yahoo. Time interval and number of times the mails should be sent can be configured. 
 
 ## Install
 
@@ -31,4 +31,15 @@ Now install dependencies
 ![Demo](https://github.com/saurabhmarpadge/Mail-Service-Testing-Tool/blob/master/Pic/demo.gif)
 
 ## Contribute
-Contributions are always welcome!
+
+Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -am 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request 
