@@ -2,6 +2,7 @@
 
 ## Basic Overview
 
+[![Build Status](https://travis-ci.org/saurabhmarpadge/Mail-Service-Testing-Tool.svg?branch=master)](https://travis-ci.org/saurabhmarpadge/Mail-Service-Testing-Tool)
 Testing tool to send mails simultaneously from different Mailing Services such as Outlook, Gmail and Yahoo. Time interval and number of times the mails should be sent can be configured. 
 
 ## Install
